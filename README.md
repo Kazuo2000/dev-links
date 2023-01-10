@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/bg-capa.jpg" alt="foto da capa" width="100%">
+<img src="./assets/bg-links.jpg" width="100%">
 </p>
 
 ## Tecnologias
