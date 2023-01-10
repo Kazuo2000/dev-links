@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/capa.jpg">
+<img src="./assets/bg-capa.jpg">
 </p>
 
 ## Tecnologias
